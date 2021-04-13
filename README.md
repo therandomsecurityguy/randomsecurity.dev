@@ -1,1 +1,1 @@
-code for [randomsecurity.dev](https://randomsecurity.dev)
+code for [randomsecurity.dev/therandomsecurityguy.com](https://randomsecurity.dev) site.
