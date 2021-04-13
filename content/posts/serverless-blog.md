@@ -80,7 +80,7 @@ Once installed, run `wrangler init --site <name of your blog>` to create a skele
 
 ![](/images/wrangler-init.png)
 
-After the init, run `wrangler-config`:
+After the init, run `wrangler config`:
 
 ![](/images/wrangler-config.png)
 
