@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/dchamorro
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://randomsecurity.dev
+  * I am dchamorro (https://keybase.io/dchamorro) on keybase.
+  * I have a public key ASBLLtV4oSxWK_sUTaQGYYCPWKgt347c376QXp-kfma9Lgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01204b2ed578a12c562bfb144da40661808f58a82ddf8edcdfbe905e9fa47e66bd2e0a",
+      "host": "keybase.io",
+      "kid": "01204b2ed578a12c562bfb144da40661808f58a82ddf8edcdfbe905e9fa47e66bd2e0a",
+      "uid": "b3b4859392f4ad9581de34c3cf449119",
+      "username": "dchamorro"
+    },
+    "merkle_root": {
+      "ctime": 1593826093,
+      "hash": "4cf50298ee5b8ed7bafe5283404496274a0bba4bf85b7b84e1eea8adfe8eb7d9a7d6d13c1fa608629bdc8a31c8ab589e09d9f6dfc65bad924f4bcc37ae58f3df",
+      "hash_meta": "0b42c5fdc88b21ce2d22b9c29c9b4efaebb8ac9c91f0ea10e08f70483c000e6a",
+      "seqno": 16861526
+    },
+    "service": {
+      "entropy": "hYeKY+FaPgF4Vgicb12OcSF7",
+      "hostname": "randomsecurity.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.0"
+  },
+  "ctime": 1593826142,
+  "expire_in": 504576000,
+  "prev": "4ecea2f1827125e364ff4380c6d97800b348b3c4d3ad126b63c7b0f30accbfa9",
+  "seqno": 36,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgSy7VeKEsViv7FE2kBmGAj1ioLd+O3N++kF6fpH5mvS4Kp3BheWxvYWTESpcCJMQgTs6i8YJxJeNk/0OAxtl4ALNIs8TTrRJrY8ew8wrMv6nEIF8ti4RF+RJvkJFyh4Nb2XqaeaSvePPQU4pCZFPtPttYAgHCo3NpZ8RAAThnhYYU6emH/JUIYa4hvweMiCZtwpwf5g5OiUrPE31IQs31xtv8Hwf4yVId3DdIhswPfCAkRGJItZpTleW/C6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOhB7EQR4MDeSqXL/94OmZD9iM5L06KDGa9i+NDZbZRto3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dchamorro
+
+==================================================================

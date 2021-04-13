@@ -1,0 +1,93 @@
+baseURL = "/"
+languageCode = "en"
+title = "The Random Security Guy Blog"
+theme = "blitz"
+defaultcontentlanguage = "en"
+summarylength = 10
+enableEmoji = true
+
+
+[params]
+title = "I'm Derek"
+author = "The Random Security Guy"
+description = "Father | Ultra Runner | Advisor | Inventor | Security @ Cloudflare"
+keywords = "blog,developer,personal,security"
+profilePicture = "images/dc-01.png"
+favicon = "favicons/"
+customCss = []
+mainSections = ["posts"]
+
+## Math settings
+[params.math]
+enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
+use = "katex"  # options: "katex", "mathjax". default is "katex".
+
+## Social links
+[[params.socialIcons]]
+icon = "fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/derekchamorro/"
+
+[[params.socialIcons]]
+icon = "fa-github"
+title = "GitHub"
+url = "https://www.github.com/therandomsecurityguy"
+
+[[params.socialIcons]]
+icon = "fa-twitter"
+title = "Twitter"
+url = "https://twitter.com/theredinthesky"
+
+[[params.socialIcons]]
+icon = "fa-key"
+title = "Keybase"
+url = "https://keybase.io/dchamorro"
+
+[[params.socialIcons]]
+icon = "fa-book"
+title = "Publications"
+url = "https://scholar.google.com/citations?user=s08AV6UAAAAJ&hl=en"
+
+[[params.socialIcons]]
+icon = "fa-rss"
+title = "RSS"
+url = "/posts/index.xml"
+
+
+## Menu items
+
+[menu]
+
+ [[menu.main]]
+ name = "Home"
+ identifier = "home"
+ weight = 100
+ url = "/"
+
+ [[menu.main]]
+ name = "Posts"
+ weight = 200
+ identifier = "posts"
+ url = "/posts/"
+
+ [[menu.main]]
+ name = "Projects"
+ weight = 300
+ identifier = "projects"
+ url = "/projects/"
+
+ [[menu.main]]
+ name = "About"
+ weight = 400
+ identifier = "about"
+ url = "/about/"
+
+ [[menu.main]]
+ name = "Tags"
+ weight = 500
+ identifier = "tags"
+ url = "/tags/"
+
+# Enable tags.
+[taxonomies]
+    tag = "tags"

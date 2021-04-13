@@ -1,2 +1,1 @@
-# randomsecurity.dev
-Code for randomsecurity.dev
+code for [randomsecurity.dev](https://randomsecurity.dev)

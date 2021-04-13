@@ -1,0 +1,13 @@
+/hugo
+*.test
+*.prof
+nohup.out
+cover.out
+*.swp
+*.swo
+.DS_Store
+dist
+public
+themes/*
+wrangler.toml
+workers-site
