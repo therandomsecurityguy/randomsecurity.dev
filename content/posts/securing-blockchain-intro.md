@@ -1,8 +1,8 @@
 ---
 author: = "dc"
 title: "Securing Blockchain - Intro"
-tags: ["Blockchain", "Security"]
-date: 2021-02-02T08:17:30-05:00
+tags: ["Blockchain Security"]
+date: 2021-04-19T08:17:30-05:00
 
 ---
 
@@ -10,7 +10,8 @@ I was recently pinged on a [LinkedIn thread](https://www.linkedin.com/feed/updat
 
 So, I'll be releasing a series of blog posts in the coming weeks addressing the following:
 
-- Threat models and attack vectors
+Threat models and attack vectors on the following:
+
 - Cryptography and proofs
 - Transaction security
 - Identity management

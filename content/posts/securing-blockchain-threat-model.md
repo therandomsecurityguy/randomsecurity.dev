@@ -18,4 +18,15 @@ When discussing blockchain security with peers, the conversation generally revol
 * [Distributed Ledger Technology](https://www.r3.com/blockchain-101/)
 * [Smart Contracts](https://blockgeeks.com/guides/smart-contracts/)
 
-With the foundational knowledge above we can dissect potential threats to your blockchain as well as countermeasures.
+With the foundational knowledge above we can dissect potential threats to your blockchain architecture as well as countermeasures.
+
+## Architecture Layers
+
+In order to better understand the threat landscape that affects the distributed nature of blockchain, it helps to simplify the reference architecture model into four layers:
+
+* Network
+* Consensus
+* Transactional/Replicated State Machine
+* Application
+
+![](/images/blockchain-arch-layers.png)
