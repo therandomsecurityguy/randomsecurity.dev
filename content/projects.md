@@ -12,6 +12,8 @@ Some of the stuff I've worked on.
 
 [secure memory encryption testing](https://github.com/therandomsecurityguy/secure-memory-encryption-test) - Kernel driver used for testing AMD Secure Memory Encryption.
 
+[mediumrarestake](https://mediumrarestake.com/) - [Cardano](https://cardano.org/) staking pool.
+
 [mostlyharmless](https://github.com/therandomsecurityguy/mostlyharmless) - Hugo podcast with customized layouts and JS audio controls.
 
 [kube-sec](https://github.com/therandomsecurityguy/kubernetes-security) - Kubernetes security best practices
