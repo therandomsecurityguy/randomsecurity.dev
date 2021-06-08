@@ -16,6 +16,7 @@ Derek has presented before at multiple summits:
 - Blockchain West Summit on [Deep Inspection of Big Data on the Blockchain](https://blockchain-expo.com/europe/speaker/derek-chamorro/)
 - Google NEXT on [Migrating DDOS Defenses to Google Cloud](https://www.youtube.com/watch?v=0XbQG2QX6mY)
 - Linux Security Summit 2020 on [Encrypting Memory At Scale](https://www.youtube.com/watch?v=ubTDZ7w4l_8)
+- A Conference for Defense on [Building a Serverless SIEM](https://www.youtube.com/watch?v=D1TuCkikXCQ)
 
 He currently holds multiple [patents](https://patents.google.com/?inventor=Derek+CHAMORRO) in the fields of security, key management, and blockchain.
 
