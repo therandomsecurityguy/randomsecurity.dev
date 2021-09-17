@@ -1,6 +1,6 @@
 ---
 author: = "dc"
-title: "Redefining Firmware Securitu"
+title: "Redefining Firmware Security"
 tags: ["Firmware", "Security", "UEFI", "Hardware Root of Trust", "TPU"]
 date: 2021-09-16T18:17:30-05:00
 
