@@ -8,7 +8,7 @@ author: "dc"
 
 ---
 
-Derek is a Security Architect at [Cloudflare](https://www.cloudflare.com/) and has over 16 years of experience in designing security frameworks at scale. His main focus is on research and development within infrastructure and cloud security.
+Derek is a Staff Engineer at [Cloudflare](https://www.cloudflare.com/) and has over 17 years of experience in designing security frameworks at scale. His main focus is on research and development within infrastructure and cloud security.
 
 Derek has presented before at multiple summits:
 
