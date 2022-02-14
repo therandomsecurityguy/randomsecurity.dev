@@ -10,7 +10,7 @@ author: "dc"
 
 Some of the stuff I've worked on.
 
-[secure memory encryption testing](https://github.com/therandomsecurityguy/secure-memory-encryption-test) - Kernel driver used for testing AMD Secure Memory Encryption.
+[secure memory encryption](https://github.com/therandomsecurityguy/secure-memory-encryption-test) - Kernel driver used for testing AMD Secure Memory Encryption.
 
 [mediumrarestake](https://mediumrarestake.com/) - [Cardano](https://cardano.org/) staking pool.
 
