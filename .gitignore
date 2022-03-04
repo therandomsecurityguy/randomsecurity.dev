@@ -11,3 +11,4 @@ public
 themes/*
 wrangler.toml
 workers-site
+.hugo_build.lock
