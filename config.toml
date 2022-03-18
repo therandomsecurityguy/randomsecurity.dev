@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en"
-title = "The Random Security Guy Blog"
+title = "Random Security Dot Dev"
 theme = "blitz"
 defaultcontentlanguage = "en"
 summarylength = 10
@@ -71,10 +71,10 @@ url = "/posts/index.xml"
  url = "/posts/"
 
  [[menu.main]]
- name = "Projects"
+ name = "Research"
  weight = 300
- identifier = "projects"
- url = "/projects/"
+ identifier = "research"
+ url = "/research/"
 
  [[menu.main]]
  name = "About"

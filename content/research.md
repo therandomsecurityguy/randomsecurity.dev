@@ -16,7 +16,7 @@ author: "dc"
 
 - *Highly Scalable Permissioned Blockchains* - [US Patent 11250125 ](https://patents.google.com/patent/US11250125B2/en)
 
-- *Resource Trust Model for Securing Component State Data for a Resource Using Blockchains* - [US Patent 11188384](https://patents.google.com/patent/US11188384B2), [EU Patent 3877876](https://patents.google.com/patent/EP3877876),[CN Patent 112970015](https://patents.google.com/patent/CN112970015/en)
+- *Resource Trust Model for Securing Component State Data for a Resource Using Blockchains* - [US Patent 11188384](https://patents.google.com/patent/US11188384B2), [EU Patent 3877876](https://patents.google.com/patent/EP3877876), [CN Patent 112970015](https://patents.google.com/patent/CN112970015/en)
 
 - *System Level Function Based Access Control for Smart Contract Execution on a Blockchain* - [EU Patent 3891632](https://patents.google.com/patent/EP3891632), [CN Patent 113168463](https://patents.google.com/patent/CN113168463/en)
 
