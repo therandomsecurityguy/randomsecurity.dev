@@ -18,7 +18,7 @@ author: "dc"
 
 - *Resource Trust Model for Securing Component State Data for a Resource Using Blockchains* - [US Patent 11188384](https://patents.google.com/patent/US11188384B2), [EU Patent 3877876](https://patents.google.com/patent/EP3877876), [CN Patent 112970015](https://patents.google.com/patent/CN112970015/en)
 
-- *System Level Function Based Access Control for Smart Contract Execution on a Blockchain* - [EU Patent 3891632](https://patents.google.com/patent/EP3891632), [CN Patent 113168463](https://patents.google.com/patent/CN113168463/en)
+- *System Level Function Based Access Control for Smart Contract Execution on a Blockchain* - [US Patent 11263315](https://patents.google.com/patent/US11263315B2/en), [EU Patent 3891632](https://patents.google.com/patent/EP3891632), [CN Patent 113168463](https://patents.google.com/patent/CN113168463/en)
 
 - *Storing and Verification of Derivative Work Data on Blockchain with Original Work Data* - [CN Patent 113141782](https://patents.google.com/patent/CN113141782/en)
 
