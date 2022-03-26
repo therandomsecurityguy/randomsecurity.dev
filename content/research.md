@@ -31,19 +31,3 @@ author: "dc"
 - [*Predictive Proof of Metrics – a New Blockchain Consensus Protocol*](https://ieeexplore.ieee.org/abstract/document/8939242) - VSV Bhamidipati, M Chan, A Jain, AS Murthy, D Chamorro. Published in: 2019 Sixth International Conference on Internet of Things: Systems, Management and Security (IOTSMS)
 
 - [*Adaptive Security for Smart Contracts using High Granularity Metrics*](https://dl.acm.org/doi/10.1145/3387168.3387214) - Ashok Murthy Venkata Siva Vijayendra Bhamidipati, Michael Chan, Derek Chamorro, Arpit Jain. ICVISP 2019: Proceedings of the 3rd International Conference on Vision, Image and Signal Processing August 2019
-
---
-
-#### Projects
-
-- [secure memory encryption](https://github.com/therandomsecurityguy/secure-memory-encryption-test) - Kernel driver used for testing AMD Secure Memory Encryption.
-
-- [mediumrarestake](https://mediumrarestake.com/) - [Cardano](https://cardano.org/) staking pool.
-
-- [mostlyharmless](https://github.com/therandomsecurityguy/mostlyharmless) - Hugo podcast with customized layouts and JS audio controls.
-
-- [kube-sec](https://github.com/therandomsecurityguy/kubernetes-security) - Kubernetes security best practices
-
-- [kube-small-cluster](https://github.com/therandomsecurityguy/kube-small-cluster) - Kubernetes small cluster build for running on single NIC baremetal systems.
-
-- [alpine-lockdown](https://github.com/therandomsecurityguy/alpine-lockdown) - Hardened Alpine Linux image, run with an unprivileged user.
