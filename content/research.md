@@ -10,7 +10,7 @@ author: "dc"
 
 #### Patents
 
-- *Traceable Key Blockchain Ledger* - [US Patent 10715323](https://patents.google.com/patent/US10715323B2), [US Patent 11108554](https://patents.google.com/patent/US11108554B2), [CN Patent 111512591](https://patents.google.com/patent/CN111512591/en)
+- *Traceable Key Blockchain Ledger* - [US Patent 10715323](https://patents.google.com/patent/US10715323B2), [US Patent 11108554](https://patents.google.com/patent/US11108554B2), [WO Patent 2019133307](https://patents.google.com/patent/WO2019133307/en), [CN Patent 111512591](https://patents.google.com/patent/CN111512591/en)
 
 - *Masked Key Hopping* - [US Patent 11070373](https://patents.google.com/patent/US11070373B2/), [EU Patent 3756119](https://patents.google.com/patent/EP3756119B1)
 
