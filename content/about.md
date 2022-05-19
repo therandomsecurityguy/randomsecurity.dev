@@ -18,7 +18,7 @@ Derek has presented before at multiple summits:
 - Linux Security Summit 2020 on [Encrypting Memory At Scale](https://www.youtube.com/watch?v=ubTDZ7w4l_8)
 - A Conference for Defense on [Building a Serverless SIEM](https://www.youtube.com/watch?v=D1TuCkikXCQ)
 
-He currently holds multiple [patents](https://patents.google.com/?inventor=Derek+CHAMORRO) in the fields of security, key management, and blockchain.
+He currently holds over 30 [patents](https://patents.google.com/?inventor=Derek+CHAMORRO) in the fields of security, key management, and blockchain.
 
 [CV](https://drive.google.com/file/d/1ZJXWcHUsRkp2tfBkvWar75y8lYcwp_SV/view?usp=sharing)
 
