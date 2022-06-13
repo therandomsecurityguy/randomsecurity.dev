@@ -20,6 +20,8 @@ Derek has presented before at multiple summits:
 
 He currently holds over 30 [patents](https://patents.google.com/?inventor=Derek+CHAMORRO) in the fields of security, key management, and blockchain.
 
+Contact: dc at randomsecurity dot dev
+
 [CV](https://drive.google.com/file/d/1ZJXWcHUsRkp2tfBkvWar75y8lYcwp_SV/view?usp=sharing)
 
 ![](/images/cham-fam.jpg)
