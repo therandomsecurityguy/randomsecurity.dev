@@ -8,7 +8,7 @@ author: "dc"
 
 ---
 
-Derek is a Staff Engineer at [Cloudflare](https://www.cloudflare.com/) and has over 17 years of experience in designing security frameworks at scale. His main focus is on research and development within infrastructure and cloud security.
+Derek is a Principal Engineer at [Cloudflare](https://www.cloudflare.com/) and has over 17 years of experience in designing security frameworks at scale. His main focus is on research and development within infrastructure and cloud security.
 
 Derek has presented before at multiple summits:
 
@@ -17,6 +17,7 @@ Derek has presented before at multiple summits:
 - Google NEXT on [Migrating DDOS Defenses to Google Cloud](https://www.youtube.com/watch?v=0XbQG2QX6mY)
 - Linux Security Summit 2020 on [Encrypting Memory At Scale](https://www.youtube.com/watch?v=ubTDZ7w4l_8)
 - A Conference for Defense on [Building a Serverless SIEM](https://www.youtube.com/watch?v=D1TuCkikXCQ)
+- Hardwear.io on [A Novel Enhancement to Arm's Secure Boot Chain](https://www.youtube.com/watch?v=i2IG6Au34xM)
 
 He currently holds over 30 [patents](https://patents.google.com/?inventor=Derek+CHAMORRO) in the fields of security, key management, and blockchain.
 
