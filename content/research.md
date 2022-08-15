@@ -22,6 +22,8 @@ author: "dc"
 
 - *Storing and Verification of Derivative Work Data on Blockchain with Original Work Data* - [US Patent 11301452](https://patents.google.com/patent/US11301452B2/en), [CN Patent 113141782](https://patents.google.com/patent/CN113141782/en)
 
+- *Adaptive Security for Smart Contracts Using High Granularity Metrics* - [US Patent 11405182](https://patents.google.com/patent/US11405182B2)
+
 - *Encoding Sensor Data and Responses in a Distributed Ledger* - [EU Patent 3949313](https://patents.google.com/patent/EP3949313), [CN Patent 113632434](https://patents.google.com/patent/CN113632434/en)
 
 --
