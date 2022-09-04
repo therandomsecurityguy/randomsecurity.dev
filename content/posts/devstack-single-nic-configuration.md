@@ -65,4 +65,4 @@ Now modify your Devstack local.conf file to include your new VLAN interface and 
     FIXED_RANGE=10.0.0.0/24
     FIXED_NETWORK_SIZE=256 FLAT_INTERFACE=eth0
 
-Follow the rest of the [instructions](http://randomsecurity.dev/openstack-20-minutes/) and you'll be stacking in no time. Until next time....cheers.
+Follow the rest of the [instructions](http://randomsecurity.dev/posts/openstack-20-minutes/) and you'll be stacking in no time. Until next time....cheers.
