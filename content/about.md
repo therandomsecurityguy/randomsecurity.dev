@@ -8,7 +8,7 @@ author: "dc"
 
 ---
 
-Derek is a Principal Engineer at [Cloudflare](https://www.cloudflare.com/) and has over 17 years of experience in designing security frameworks at scale. His main focus is on research and development within infrastructure and cloud security.
+Derek is the Head of Hardware Security at [Cloudflare](https://www.cloudflare.com/) and has over 20 years of experience in designing security frameworks at scale. His main focus is on research and development within the fields of encryption and infrastructure security.
 
 Derek has presented before at multiple summits:
 
