@@ -10,7 +10,7 @@ author: "dc"
 
 #### Patents
 
-- *Isolating internet-of-things (IoT) devices using a secure overlay network* - [US Patent 11470104](https://patents.justia.com/patent/11470104)
+- *Isolating internet-of-things (IoT) devices using a secure overlay network* - [US Patent 11470104](https://patents.google.com/patent/US11470104B1)
 
 - *Traceable Key Blockchain Ledger* - [US Patent 10715323](https://patents.google.com/patent/US10715323B2), [US Patent 11108554](https://patents.google.com/patent/US11108554B2), [WO Patent 2019133307](https://patents.google.com/patent/WO2019133307/en), [CN Patent 111512591](https://patents.google.com/patent/CN111512591/en)
 
