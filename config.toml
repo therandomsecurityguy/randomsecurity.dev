@@ -34,9 +34,9 @@ title = "GitHub"
 url = "https://www.github.com/therandomsecurityguy"
 
 [[params.socialIcons]]
-icon = "fa-twitter"
-title = "Twitter"
-url = "https://twitter.com/theredinthesky"
+icon = "fa-code"
+title = "Mastodon"
+url = "https://infosec.exchange/@randomsec"
 
 [[params.socialIcons]]
 icon = "fa-key"
