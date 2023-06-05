@@ -10,7 +10,7 @@ author: "dc"
 
 #### Patents
 
-- *Distributed Key Management* - [US Patent 11658812](https://patents.justia.com/patent/11658812)
+- *Distributed Key Management* - [US Patent 11658812](https://patents.google.com/patent/US11658812B1/)
 
 - *Isolating internet-of-things (IoT) devices using a secure overlay network* - [US Patent 11470104](https://patents.google.com/patent/US11470104B1)
 
