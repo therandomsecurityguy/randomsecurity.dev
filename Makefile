@@ -23,14 +23,14 @@ build:
 .PHONY: deploy
 deploy:
 	@echo "Preparing commit"
-	git add . 
-	git status 
-	git commit -m "Deploying via Makefile" 
+	git add .
+	git status
+	git commit -m "Deploying via Makefile"
 	git push -u origin master
 
 	@echo "Pushed to remote"
 
-.PHONY: publish
+.PHONY: deploy
 publish:
-	@echo "Publishing to Cloudflare Workers"
-	wrangler publish
+	@echo "Deploying to Cloudflare Workers"
+	wrangler deploy

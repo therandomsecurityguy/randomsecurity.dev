@@ -16,11 +16,11 @@ author: "dc"
 
 - *Isolating internet-of-things (IoT) devices using a secure overlay network* - [US Patent 11470104](https://patents.google.com/patent/US11470104B1)
 
-- *Traceable Key Blockchain Ledger* - [US Patent 10715323](https://patents.google.com/patent/US10715323B2), [US Patent 11108554](https://patents.google.com/patent/US11108554B2), [WO Patent 2019133307](https://patents.google.com/patent/WO2019133307/en), [CN Patent 111512591](https://patents.google.com/patent/CN111512591/en), [KR Patent 102406533](https://patents.google.com/patent/KR102406533B1), [EU Patent EP3732817](https://patents.google.com/patent/EP3732817)
+- *Traceable Key Blockchain Ledger* - [US Patent 10715323](https://patents.google.com/patent/US10715323B2), [US Patent 11108554](https://patents.google.com/patent/US11108554B2), [US Patent 11736288](https://patents.google.com/patent/US11736288B2/), [WO Patent 2019133307](https://patents.google.com/patent/WO2019133307/en), [CN Patent 111512591](https://patents.google.com/patent/CN111512591/en), [KR Patent 102406533](https://patents.google.com/patent/KR102406533B1), [EU Patent EP3732817](https://patents.google.com/patent/EP3732817)
 
 - *Masked Key Hopping* - [US Patent 11070373](https://patents.google.com/patent/US11070373B2/), [US Patent 11683169](https://patents.justia.com/patent/11683169), [EU Patent 3756119](https://patents.google.com/patent/EP3756119B1), [CN Patent 111656348](https://patents.google.com/patent/CN111656348/en)
 
-- *Highly Scalable Permissioned Blockchains* - [US Patent 11250125 ](https://patents.google.com/patent/US11250125B2/en)
+- *Highly Scalable Permissioned Blockchains* - [US Patent 11250125 ](https://patents.google.com/patent/US11250125B2/en), [US Patent 11809551](https://patents.google.com/patent/US11809551B2/)
 
 - *Resource Trust Model for Securing Component State Data for a Resource Using Blockchains* - [US Patent 11188384](https://patents.google.com/patent/US11188384B2), [US Patent 11681551](https://patents.justia.com/patent/11681551), [EU Patent 3877876](https://patents.google.com/patent/EP3877876), [CN Patent 112970015](https://patents.google.com/patent/CN112970015/en)
 
