@@ -30,7 +30,7 @@ deploy:
 
 	@echo "Pushed to remote"
 
-.PHONY: deploy
+.PHONY: publish
 publish:
 	@echo "Deploying to Cloudflare Workers"
 	wrangler deploy

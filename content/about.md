@@ -8,7 +8,7 @@ author: "dc"
 
 ---
 
-Derek is the Head of Hardware Security at [Cloudflare](https://www.cloudflare.com/) and has over 20 years of experience in designing security frameworks at scale. His main focus is on research and development within the fields of encryption and infrastructure security.
+Derek is the Head of Infrastructure Security at [Cloudflare](https://www.cloudflare.com/) and has over 20 years of experience in designing security frameworks at scale. His main focus is on research and development within the fields of encryption and infrastructure security.
 
 Derek has presented before at multiple summits:
 
@@ -19,7 +19,7 @@ Derek has presented before at multiple summits:
 - Hardwear.io on [A Novel Enhancement to Arm's Secure Boot Chain](https://www.youtube.com/watch?v=i2IG6Au34xM)
 - RSA Conference on [How to Distribute Keys Securely for 20% of the Web](https://www.youtube.com/watch?v=HMmC-0Ueod4)
 
-He currently holds over 40 [patents](https://patents.google.com/?inventor=Derek+CHAMORRO&dups=language) in the fields of security, key management, and blockchain.
+He earned a B.S. from Texas A&M and now owns more than 40 global [patents](https://patents.google.com/?inventor=Derek+CHAMORRO&dups=language) related to cryptography, key management, and distributed ledger technology.
 
 Contact: dc at randomsecurity dot dev
 
