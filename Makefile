@@ -33,4 +33,4 @@ deploy:
 .PHONY: publish
 publish:
 	@echo "Deploying to Cloudflare Workers"
-	wrangler deploy
+	npx wrangler deploy

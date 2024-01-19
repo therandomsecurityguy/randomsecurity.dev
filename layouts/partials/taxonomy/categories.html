@@ -1,6 +1,9 @@
-
-<span class="separator">
-{{- range $index, $el := . -}}
-    <a class="category" href="{{ ( printf "categories/%s/" ( . | urlize ) ) | relLangURL }}">{{ . }}</a>
-{{- end -}}
-</span>
+<div class="categories">
+  <i class="fa fa-folder" aria-hidden="true"></i>
+  {{- range $index, $el := . -}}
+    {{- if gt $index 0 }}
+      <span class="separator">•</span>
+    {{- end }}
+    <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
+  {{- end -}}
+</div>

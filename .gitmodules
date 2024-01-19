@@ -1,3 +1,6 @@
 [submodule "themes/blitz"]
 	path = themes/blitz
 	url = https://github.com/lxndrblz/anatole.git
+[submodule "themes/hugo-coder"]
+	path = themes/hugo-coder
+	url = https://github.com/luizdepra/hugo-coder.git
