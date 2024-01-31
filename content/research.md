@@ -26,9 +26,9 @@ author: "dc"
 
 - *System Level Function Based Access Control for Smart Contract Execution on a Blockchain* - [US Patent 11263315](https://patents.google.com/patent/US11263315B2/en), [EU Patent 3891632](https://patents.google.com/patent/EP3891632), [CN Patent 113168463](https://patents.google.com/patent/CN113168463/en)
 
-- *Storing and Verification of Derivative Work Data on Blockchain with Original Work Data* - [US Patent 11301452](https://patents.google.com/patent/US11301452B2/en), [CN Patent 113141782](https://patents.google.com/patent/CN113141782/en)
+- *Storing and Verification of Derivative Work Data on Blockchain with Original Work Data* - [US Patent 11301452](https://patents.google.com/patent/US11301452B2/en), [US Patent - 11880352](https://patents.justia.com/patent/11880352), [CN Patent 113141782](https://patents.google.com/patent/CN113141782/en)
 
-- *Adaptive Security for Smart Contracts Using High Granularity Metrics* - [US Patent 11405182](https://patents.google.com/patent/US11405182B2)
+- *Adaptive Security for Smart Contracts Using High Granularity Metrics* - [US Patent 11405182](https://patents.google.com/patent/US11405182B2), [US Patent - 11888966](https://patents.justia.com/patent/11888966)
 
 - *Encoding Sensor Data and Responses in a Distributed Ledger* - [EU Patent 3949313](https://patents.google.com/patent/EP3949313), [CN Patent 113632434](https://patents.google.com/patent/CN113632434/en)
 
