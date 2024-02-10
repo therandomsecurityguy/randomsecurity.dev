@@ -10,6 +10,8 @@ author: "dc"
 
 #### Patents
 
+- *Distributed Key Management System With a Key Lookup Service* - [US Patent 11895227](https://patents.justia.com/patent/11895227)
+
 - *Distributed Key Management* - [US Patent 11658812](https://patents.google.com/patent/US11658812B1/)
 
 - *Blockchain Consensus Protocol Using Predictive Proof of Metrics* - [US Patent 11676135](https://patents.google.com/patent/US11676135B2)
