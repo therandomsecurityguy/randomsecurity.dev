@@ -10,7 +10,7 @@ author: "dc"
 
 #### Patents
 
-- *Distributed Key Management System With a Key Lookup Service* - [US Patent 11895227](https://patents.justia.com/patent/11895227)
+- *Distributed Key Management System With a Key Lookup Service* - [US Patent 11895227](https://patents.google.com/patent/US11895227B1/)
 
 - *Distributed Key Management* - [US Patent 11658812](https://patents.google.com/patent/US11658812B1/)
 
@@ -24,7 +24,7 @@ author: "dc"
 
 - *Highly Scalable Permissioned Blockchains* - [US Patent 11250125 ](https://patents.google.com/patent/US11250125B2/en), [US Patent 11809551](https://patents.google.com/patent/US11809551B2/)
 
-- *Resource Trust Model for Securing Component State Data for a Resource Using Blockchains* - [US Patent 11188384](https://patents.google.com/patent/US11188384B2), [US Patent 11681551](https://patents.justia.com/patent/11681551), [US Patent 11880352](https://patents.justia.com/patent/11880352), [EU Patent 3877876](https://patents.google.com/patent/EP3877876), [CN Patent 112970015](https://patents.google.com/patent/CN112970015/en)
+- *Resource Trust Model for Securing Component State Data for a Resource Using Blockchains* - [US Patent 11188384](https://patents.google.com/patent/US11188384B2), [US Patent 11681551](https://patents.google.com/patent/US11681551B2), [US Patent 11880352](https://patents.justia.com/patent/11880352), [EU Patent 3877876](https://patents.google.com/patent/EP3877876), [CN Patent 112970015](https://patents.google.com/patent/CN112970015/en)
 
 - *System Level Function Based Access Control for Smart Contract Execution on a Blockchain* - [US Patent 11263315](https://patents.google.com/patent/US11263315B2/en), [US Patent - 11899783](https://patents.justia.com/patent/11899783), [EU Patent 3891632](https://patents.google.com/patent/EP3891632), [CN Patent 113168463](https://patents.google.com/patent/CN113168463/en)
 
