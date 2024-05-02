@@ -8,7 +8,7 @@ author: "dc"
 
 ---
 
-Derek is the Head of Infrastructure Security at [Cloudflare](https://www.cloudflare.com/) and has over 20 years of experience in designing security frameworks at scale. His main focus is on research and development within the fields of encryption and infrastructure security.
+Derek is Chief Information Security Officer at [Eagle Eye Networks](https://www.een.com) and the former Head of Infrastructure Security at [Cloudflare](https://www.cloudflare.com/). He has over 20 years of experience in designing security frameworks at scale. His main focus is on research and development within the fields of encryption and infrastructure security.
 
 Derek has presented before at multiple summits:
 
