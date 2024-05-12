@@ -84,7 +84,6 @@ url = "posts/"
 name = "Research"
 weight = 3
 url = "research/"
-
 #[[languages.en.menu.main]]
 #name = "Contact me"
 #weight = 5

@@ -19,10 +19,10 @@ Derek has presented before at multiple summits:
 - Hardwear.io on [A Novel Enhancement to Arm's Secure Boot Chain](https://www.youtube.com/watch?v=i2IG6Au34xM)
 - RSA Conference on [How to Distribute Keys Securely for 20% of the Web](https://www.youtube.com/watch?v=HMmC-0Ueod4)
 
-He earned a B.S. from Texas A&M and now owns more than 40 global [patents](https://patents.google.com/?inventor=Derek+CHAMORRO&dups=language) related to cryptography, key management, and distributed ledger technology.
+He earned a masters in cybersecurity from Purdue University and now owns more than 40 global [patents](https://patents.google.com/?inventor=Derek+CHAMORRO&dups=language) related to cryptography, key management, and distributed ledger technology.
 
 Contact: dc at randomsecurity dot dev
 
 [CV](https://drive.google.com/file/d/1zXnPMiRlkaE7shA-Cir92tZQwSmVqHmV/view?usp=sharing)
 
-![](/images/cham-fam.jpg)
+![](/images/SAT-T01-002.jpg)
