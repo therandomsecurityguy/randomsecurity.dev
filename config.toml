@@ -51,7 +51,7 @@ url = "https://infosec.exchange/@randomsec"
 name = "LinkedIn"
 icon = "fa fa-2x fa-linkedin"
 weight = 4
-url = "https://www.linkedin.com/in/dchamorro/"
+url = "https://www.linkedin.com/in/derekchamorro/"
 
 [[params.social]]
 name = "Publications"
