@@ -6,47 +6,66 @@ I hereby claim:
 
   * I am an admin of https://randomsecurity.dev
   * I am dchamorro (https://keybase.io/dchamorro) on keybase.
-  * I have a public key ASBLLtV4oSxWK_sUTaQGYYCPWKgt347c376QXp-kfma9Lgo
+  * I have a public key with fingerprint 6F13 DD94 6121 C8C1 98B7  2BB9 520F FC81 D08F 5728
 
 To do so, I am signing this object:
 
 {
   "body": {
     "key": {
-      "eldest_kid": "01204b2ed578a12c562bfb144da40661808f58a82ddf8edcdfbe905e9fa47e66bd2e0a",
+      "eldest_kid": "0120843dbca5c393ecade5bfa2d93cca6ead165e3985c41b687cefae3580c35fd29b0a",
+      "fingerprint": "6f13dd946121c8c198b72bb9520ffc81d08f5728",
       "host": "keybase.io",
-      "kid": "01204b2ed578a12c562bfb144da40661808f58a82ddf8edcdfbe905e9fa47e66bd2e0a",
+      "key_id": "520ffc81d08f5728",
+      "kid": "01011e64ed016195347a118b11f50ad58ed246f2d541d9aa03d0ca1b3bdf7dffa7490a",
       "uid": "b3b4859392f4ad9581de34c3cf449119",
       "username": "dchamorro"
     },
-    "merkle_root": {
-      "ctime": 1618341221,
-      "hash": "eec35910d25c1a9330e710b3db3233cf714bf1472b77790e5bce61a5a50d244139300e1c6805297910efad7e53956f1abc606ca8bf2f9e59b31ee79e0a128ae5",
-      "hash_meta": "4a35737a227ebace1e85c8bf3f93810876e0920bb1ffe0f966d52d38c7ebe86e",
-      "seqno": 19623154
-    },
     "service": {
-      "entropy": "KJKWzBCCFruQEgmN3bt3QNPC",
       "hostname": "randomsecurity.dev",
       "protocol": "https:"
     },
     "type": "web_service_binding",
-    "version": 2
+    "version": 1
   },
-  "client": {
-    "name": "keybase.io go client",
-    "version": "5.6.2"
-  },
-  "ctime": 1618341240,
-  "expire_in": 504576000,
-  "prev": "3956e91cf9d6e92fede417adccc68ad5947c074abbb74d77c510ce5b97614d37",
-  "seqno": 40,
+  "ctime": 1725051321,
+  "expire_in": 157680000,
+  "prev": "4ebf3840c04f94e42eb0cd6c51dc1c105e3fcfb08e5db2fe3e2f6a5f951507f4",
+  "seqno": 50,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgSy7VeKEsViv7FE2kBmGAj1ioLd+O3N++kF6fpH5mvS4Kp3BheWxvYWTESpcCKMQgOVbpHPnW6S/t5BetzMaK1ZR8B0q7t013xRDOW5dhTTfEIJxVOJX9scVUvvE2agdcl3vt5a9/LPRZCvxOOjIwSy7PAgHCo3NpZ8RAjSHmVBH1J/PDpsk5xT313+QpL5yU8UP4eQG6BUbEz+rz7le396lv2OkQbRuDGq/35FGSDd/9l+15EmMKBQFmCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINjv4Wulnb/5DyZQrjKx5wxRUMY/jUEKfLnxTsNto2ARo3RhZ80CAqd2ZXJzaW9uAQ==
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMN9AnicbVJtUFRVGOZDwijdEDDFyOEGxHf33K+9d0VntgEcvmYcmyQ+dLv3nHPZ
+G7C73l0gJCbI1DIaHRANGyBESZtGotyyCZNFKMqpEXCU+IpxJhgRsBh0AmLrLqP/
+On/OnPd9nud93ve8Pet8vQK8d+v+qb5xLDva+7qrucRLHgDfVhCSFZUThgqiEK9e
+uAhhu8NUqCDCQJCAInmGRhIUWUgLNIYiwqwkixQSaAhFDosIcCymBZ6FDJA4Xg+x
+LGKa5UlIszKiBIkUiXhCViwFWLWpisWhyXIyoBESGA5QAPIQCLykpyRJYClSliEP
+EMnLrJ7iNaLZavcwNHOSaMeJilWLaQ/Tqr3/wT/2TQKAOQYjEnBAYGlGLwLASwDI
+LCkilseIYjiZQiwDkCCKJI1IKAKJlpCsR7Is6hlh1XfJqpwWZ3hWoAVKZkQksFpF
+TDOQhjLDCAAIHqAdqxaxGGtoBM1isVVVrURlPKGFSxWIPZP1tPIIoooWZC22Y1ii
+Ko7yRIRLNQmbanVYobVIy5sdDpvd4OE7ym0eQhmWTI+kTJJiQdo4NUYpVu2K1UIY
+gIaEDsWjDfQUS7KApkA8gd+0KSo2KR4Eq+d4UjueOlo5A8FgSaZ5hoQkIwsMZigs
+kRBxkAUIAghI7VdlKEskj1kkUTKmMSVzIisLLGBJvcwQnub2W6yEgdVEHWKBpmlX
+Ciyio0TFRGW3K3+Nl3eA1xN+Pp498wp48pnH23djk25l49zPtvfiWg7+ZTwVsPzO
+9vHkWnONceul6b7Kpt60CHNGcPeoZJzNL383duKTP/Jyxo/ORER/6Ha+pTtav88n
+KHdq8y/X1z88tc70wD39/Vdp63MzPt9R9Fzu/IgzhLIs3Oo3bR8+HH7GP3SgLSgv
+sFk/WKYL/iJsS8O5JaEnQVfXcHqy43ZT9BtbF9eG+R2buPv3gQvFjiuDSzV3IlKu
+TDj3RDzNjObEhkyU5H0kZG5yOzsSL57MOf4SXvohoaIsakvtwmJUT+3hbL7I94PS
+C+m0Up/Rvnbl5pnW9PuR/XresaHlm/DbO33qr0bGD9lq7vnNz0TONyV8Fh9odPan
++vYY2U8Xcu9Vz65M7OyLORfYMjypCB+rx6cvv5ZSse1IpLtBDIf9Zzunp8TWvrsj
+bbteHq6iXmiPqc4at6PTbb/vjbDiS12Tc5N79emvDvnkxs59t6PuSND79sz0p/JS
+0150/nRoBrcPnLhItqR0dXcmNeve5sbrXbak18WJ6uQZQ0VLcFhcdlJnTfL+qmtj
+B6N+PN+72JjSnHP+6qI7f+zLxqmhkfrY3xpiLmdtYDY2qsa8gOw/M/tn3Yf+FZ7n
+YkZDJ90nvNcs1YY+iKvv4zq8Grrcqa2bfw056fJbebjt61v36Wpj5Posc/+zY68s
+37xWtct/cPlAXa9LODu+x7XPtfuOf4e0UDj6HzASzNo=
+=jKio
+-----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
@@ -54,3 +73,4 @@ appending to this document.
 View my publicly-auditable identity here: https://keybase.io/dchamorro
 
 ==================================================================
+
