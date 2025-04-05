@@ -2,13 +2,13 @@
 
 title: "About"
 description: "About me"
-date: "2020-06-30"
+date: "2025-04-03"
 aliases: ["about-us","contact"]
 author: "dc"
 
 ---
 
-Derek is Chief Information Security Officer at [Eagle Eye Networks](https://www.een.com) and the former Head of Infrastructure Security at [Cloudflare](https://www.cloudflare.com/). He has over 20 years of experience in designing security frameworks at scale. His main focus is on research and development within the fields of encryption and infrastructure security.
+Derek is the Head of Security at [Together.ai](https://www.together.ai) and the former Head of Infrastructure Security at [Cloudflare](https://www.cloudflare.com/). He has over 20 years of experience in designing security frameworks at scale. His main focus is on research and development within the fields of encryption and infrastructure security.
 
 Derek has presented before at multiple summits:
 
