@@ -3,14 +3,14 @@ languageCode = "en"
 title = "randomsecurity.dev"
 theme = "hugo-coder"
 defaultcontentlanguage = "en"
-paginate = 6
+pagination.pagerSize = 6
 enableEmoji = true
 
 
 [params]
 author = "The Random Security Guy"
 description = "Father | Ultra Runner | Advisor | Innovator | Security @ Eagle Eye Networks"
-info = "Father | Ultra Runner | Advisor | Innovator | Security @ Eagle Eye Networks"
+info = "Father | Ultra Runner | Advisor | Innovator | Security @ together.ai"
 keywords = "blog,developer,personal,security"
 avatarURL = "images/dc-01.png"
 dateFormat = "January 2, 2006"
