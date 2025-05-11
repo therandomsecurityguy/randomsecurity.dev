@@ -10,7 +10,7 @@ enableEmoji = true
 [params]
 author = "The Random Security Guy"
 description = "Father | Ultra Runner | Advisor | Innovator | Security @ Eagle Eye Networks"
-info = "Father | Ultra Runner | Advisor | Innovator | Security @ together.ai"
+info = "Father | Ultra Runner | Advisor | Innovator | Security @ [together.ai](https://www.together.ai)"
 keywords = "blog,developer,personal,security"
 avatarURL = "images/dc-01.png"
 dateFormat = "January 2, 2006"
