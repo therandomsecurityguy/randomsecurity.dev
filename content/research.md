@@ -10,6 +10,8 @@ author: "dc"
 
 #### Patents
 
+- *Artificial intelligence service(s) in a distributed cloud computing network* - [US Patent 20250106306](https://patents.google.com/patent/US20250106306A1)
+
 - *Distributed Key Management System With a Key Lookup Service* - [US Patent 11895227](https://patents.google.com/patent/US11895227B1/)
 
 - *Distributed Key Management* - [US Patent 11658812](https://patents.google.com/patent/US11658812B1/)
