@@ -43,3 +43,13 @@ author: "dc"
 - [*Predictive Proof of Metrics – a New Blockchain Consensus Protocol*](https://ieeexplore.ieee.org/abstract/document/8939242) - VSV Bhamidipati, M Chan, A Jain, AS Murthy, D Chamorro. Published in: 2019 Sixth International Conference on Internet of Things: Systems, Management and Security (IOTSMS)
 
 - [*Adaptive Security for Smart Contracts using High Granularity Metrics*](https://dl.acm.org/doi/10.1145/3387168.3387214) - Ashok Murthy Venkata Siva Vijayendra Bhamidipati, Michael Chan, Derek Chamorro, Arpit Jain. ICVISP 2019: Proceedings of the 3rd International Conference on Vision, Image and Signal Processing August 2019
+
+#### Presentations
+
+- Blockchain West Summit on [Deep Inspection of Big Data on the Blockchain](https://blockchain-expo.com/europe/speaker/derek-chamorro/)
+- Google NEXT on [Migrating DDOS Defenses to Google Cloud](https://www.youtube.com/watch?v=0XbQG2QX6mY)
+- Linux Security Summit 2020 on [Encrypting Memory At Scale](https://www.youtube.com/watch?v=ubTDZ7w4l_8)
+- A Conference for Defense on [Building a Serverless SIEM](https://www.youtube.com/watch?v=D1TuCkikXCQ)
+- Hardwear.io on [A Novel Enhancement to Arm's Secure Boot Chain](https://www.youtube.com/watch?v=i2IG6Au34xM)
+- RSA Conference on [How to Distribute Keys Securely for 20% of the Web](https://www.youtube.com/watch?v=HMmC-0Ueod4)
+- SRECon25 on [Securing AI at Scale](https://www.youtube.com/watch?v=XWGjGlP2sAo)
